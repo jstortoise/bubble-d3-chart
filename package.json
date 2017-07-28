@@ -1,0 +1,30 @@
+{
+  "name": "bubbleGraph",
+  "version": "1.0.0",
+  "description": "bubble graph with D3.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrdnndtsch/d3.js-bubble-chart.git"
+  },
+  "keywords": [
+    "d3js",
+    "bubble",
+    "graph",
+    "data",
+    "fun"
+  ],
+  "author": "Trudy and Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrdnndtsch/d3.js-bubble-chart/issues"
+  },
+  "homepage": "https://github.com/jrdnndtsch/d3.js-bubble-chart",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3"
+  }
+}
